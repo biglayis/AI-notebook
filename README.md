@@ -1,5 +1,5 @@
 # 目录
-[nbviewer](https://nbviewer.org/github/biglayis/python-notebook/blob/main/index.ipynb)
+[nbviewer](https://nbviewer.org/github/biglayis/AI-notebook/blob/main/index.ipynb)
 ---
 * [MachineLearning](MachineLearning)  
     * [02.线性回归](MachineLearning/02.线性回归.ipynb)  
