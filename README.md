@@ -11,3 +11,8 @@
     * [08.主成分分析PCA](MachineLearning/08.主成分分析PCA.ipynb) 
     * [09.集成学习](MachineLearning/09.集成学习.ipynb) 
 * [DeepLearning](DeepLearning)  
+    * [pytorch](pytorch)
+        * [01.Tensor张量](DeepLearning/pytorch/01.Tensor张量.ipynb)
+        * [02.计算图与动态图机制](DeepLearning/pytorch/02.计算图与动态图机制.ipynb)
+        * [03.autograd与逻辑回归](DeepLearning/pytorch/03.autograd与逻辑回归.ipynb)
+        * [04.DataLoader与DataSet](DeepLearning/pytorch/04.DataLoader与DataSet.ipynb)
